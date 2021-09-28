@@ -1,4 +1,4 @@
-
+"""Perform various operations such as Addition,Subtraction,Multiplication & Transpose using a matrix"""
 # MATRICES
 
 # Using Functions
@@ -26,7 +26,7 @@ print("Transpose")
 print(np.transpose(arr1))
 print(np.transpose(arr2)) """
 
-
+# Without using functions
 # MATRIX 1
 A = []
 
