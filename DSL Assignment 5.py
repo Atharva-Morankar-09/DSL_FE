@@ -1,4 +1,4 @@
-# Linear Searc and Sentinel Search
+# Linear Search and Sentinel Search
 # Linear Search
 
 """def linear_search(a,n,ele):
